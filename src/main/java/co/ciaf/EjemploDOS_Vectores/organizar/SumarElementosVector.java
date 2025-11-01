@@ -1,4 +1,4 @@
-package co.ciaf.EjemploDOS_Vectores;
+package co.ciaf.EjemploDOS_Vectores.organizar;
 
 public class SumarElementosVector {
     public static void main(String[] args) {

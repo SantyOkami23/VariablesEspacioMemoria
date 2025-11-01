@@ -1,6 +1,6 @@
 package co.ciaf.EjemploUNO_Variables;
 
-public class TamannoEnMemoria {
+public class EjemploTamannoEnMemoria02 {
     public static void main(String[] args) {
         System.out.println("Tamaño en bits de los tipos primitivos:");
         System.out.println("byte: " + Byte.SIZE + " bits");

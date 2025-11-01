@@ -1,8 +1,9 @@
 package co.ciaf.EjemploDOS_Vectores;
 
-public class EjemploVector {
+public class CrearVector04 {
+
     public static void main(String[] args) {
-        // se crean 5 posiciones (0 a 4)
+        // Crear vector de tamaño 5
         int[] numeros = new int[5];
 
         // Asignar valores
@@ -10,7 +11,9 @@ public class EjemploVector {
         numeros[1] = 20;
         numeros[2] = 30;
 
-        // Recorrer el vector completamente, como limite de iteracion se usa el tamaño maximo del vector
+        System.out.println("✅ Vector creado correctamente con tamaño: " + numeros.length);
+
+        // Mostrar contenido
         for (int i = 0; i < numeros.length; i++) {
             System.out.println("Posición " + i + ": " + numeros[i]);
         }

@@ -1,10 +1,11 @@
 package co.ciaf.EjemploUNO_Variables;
 
-public class DireccionEnMemoria {
+public class EjemploDireccionEnMemoria03 {
     public static void main(String[] args) {
         int x = 10;
         int y = 20;
         int w =y;
+
         String nombre = "Santiago";
 
         System.out.println("x = " + x);
