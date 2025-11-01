@@ -1,4 +1,4 @@
-package co.ciaf.EjemploDOS_Vectores;
+package co.ciaf.EjemploDOS_Vectores.Enteros;
 
 public class CrearVector04 {
 
@@ -11,7 +11,7 @@ public class CrearVector04 {
         numeros[1] = 20;
         numeros[2] = 30;
 
-        System.out.println("✅ Vector creado correctamente con tamaño: " + numeros.length);
+        System.out.println(" Vector creado correctamente con tamaño: " + numeros.length);
 
         // Mostrar contenido
         for (int i = 0; i < numeros.length; i++) {

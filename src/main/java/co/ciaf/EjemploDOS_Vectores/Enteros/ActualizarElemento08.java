@@ -1,4 +1,4 @@
-package co.ciaf.EjemploDOS_Vectores;
+package co.ciaf.EjemploDOS_Vectores.Enteros;
 
 import java.util.Arrays;
 

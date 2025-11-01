@@ -1,4 +1,4 @@
-package co.ciaf.EjemploDOS_Vectores;
+package co.ciaf.EjemploDOS_Vectores.Enteros;
 
 public class MostrarVector05 {
 

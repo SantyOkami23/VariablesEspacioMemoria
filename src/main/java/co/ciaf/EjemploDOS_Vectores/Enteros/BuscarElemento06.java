@@ -1,4 +1,4 @@
-package co.ciaf.EjemploDOS_Vectores;
+package co.ciaf.EjemploDOS_Vectores.Enteros;
 
 public class BuscarElemento06 {
 
@@ -16,7 +16,7 @@ public class BuscarElemento06 {
         }
 
         if (!encontrado) {
-            System.out.println("❌ Elemento " + valorBuscado + " no encontrado en el vector.");
+            System.out.println(" Elemento " + valorBuscado + " no encontrado en el vector.");
         }
     }
 }
